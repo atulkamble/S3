@@ -857,10 +857,10 @@ Lifecycle → Automation
 ### One-Line Revision
 
 ```text
-Versioning  = Keep old versions
-CRR         = Copy data to another AWS Region
+Versioning    = Keep old versions
+CRR           = Copy data to another AWS Region
 Storage Class = Choose how data is stored based on access/cost
-Lifecycle   = Automatically transition or expire objects
+Lifecycle     = Automatically transition or expire objects
 ```
 
 
