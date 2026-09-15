@@ -177,8 +177,10 @@ URL expires
 5. Select:
    Share with a presigned URL
 
-6. Configure expiration time.
-example: 1 minute
+6. Select:
+   Time interval until the presigned URL expires
+   Number of minutes
+   example: 1 minute
 
 7. Create the presigned URL.
 
